@@ -44,6 +44,7 @@ Axios (for API calls)
 Socket.IO Client (for real-time communication)
 
 Folder Structure
+
 .
 ├── ProjectCode
 │   ├── Backend
@@ -149,6 +150,7 @@ Folder Structure
 │       ├── tailwind.config.cjs
 │       └── vite.config.js
 
+
 Setup
 Prerequisites
 Node.js (LTS version recommended)
@@ -190,7 +192,7 @@ npm install
 
 Create a .env file in the ProjectCode/Frontend directory and add your environment variables.
 
-VITE_BACKEND_URL=http://localhost:4000
+VITE_BACKEND_URL=http://localhost:3000
 
 Start the frontend development server:
 
