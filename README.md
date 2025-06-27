@@ -158,4 +158,4 @@ The project follows a client-server architecture:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License team VSSMS.
